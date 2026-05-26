@@ -56,7 +56,8 @@ print("---------------------------------------------------------------")
 
 ## Output :
 
-![Uploading image.png…]()
+<img width="785" height="384" alt="image" src="https://github.com/user-attachments/assets/9f2f0184-0e53-4d2e-ad31-e749bc71b203" />
+
 
 
 ## Result :
